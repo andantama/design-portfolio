@@ -2,7 +2,7 @@
 Sample and real projects of web design using CMS WordPress and graphic design using Photoshop &amp; Illustrator.
 
 <h2> Web/Landing Page Design samples:</h2>
-<h3><i> Tools: CMS Wordpress, Page Builder Elementor, Yoast SEO </i></h3>
+<h4><i> Tools: CMS Wordpress, Page Builder Elementor, Yoast SEO </i></h4>
 <ol>
   <li>https://jfllawyers.com</li>
   <li>https://dayangresort.com</li>
@@ -19,7 +19,7 @@ Sample and real projects of web design using CMS WordPress and graphic design us
 <hr>
 
 <h2> Graphic Design </h2>
-<h3><i>Tools: Adobe Photoshop, Adobe Illustrator, Microsoft Powerpoint</i></h3>
+<h4><i>Tools: Adobe Photoshop, Adobe Illustrator, Microsoft Powerpoint</i></h4>
 <ol>
   <li>Digital graphic samples:<br/> https://drive.google.com/drive/folders/1LkobviMpns0lu4sx97iyGKv-AG6puwaK?usp=sharing</li>
   <li>Animated / video post samples:<br/> https://drive.google.com/drive/folders/1D-PTlcN4A9kbdwYkydT2RDPOg7lL0hLB?usp=sharing</li>
