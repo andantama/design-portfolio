@@ -12,4 +12,5 @@ Sample and real projects of web design using CMS Wordpress and graphic design us
   <li>https://bungjhon.com</li>
   <li>https://madusyaiful.com</li>
   <li>https://madusyaiful.id</li>
+  <li>https://smasantununtan.sch.id/</li>
 </ol>
