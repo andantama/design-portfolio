@@ -1,7 +1,7 @@
 # Design-portfolio
 Sample and real projects of web design using CMS Wordpress and graphic design using Photoshop &amp; Illustrator
 
-<h3> Web/Landing Page Design (CMS Wordpress, Page Builder Elementor) </h3>
+<h2> Web/Landing Page Design (CMS Wordpress, Page Builder Elementor) </h2>
 <ol>
   <li>https://jfllawyers.com</li>
   <li>https://dayangresort.com</li>
@@ -17,7 +17,8 @@ Sample and real projects of web design using CMS Wordpress and graphic design us
 
 <hr>
 
-h3> Graphic Design </h3>
+<h2> Graphic Design </h2>
+<h4><i>Tools: Adobe Photoshop, Adobe Illustrator, Microsoft Powerpoint</i></h4>
 <ol>
   <li>Digital graphic samples:<br/> https://drive.google.com/drive/folders/1LkobviMpns0lu4sx97iyGKv-AG6puwaK?usp=sharing</li>
   <li>Animated / video post samples:<br/> https://drive.google.com/drive/folders/1D-PTlcN4A9kbdwYkydT2RDPOg7lL0hLB?usp=sharing</li>
