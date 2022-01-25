@@ -1,7 +1,7 @@
 # Design Portfolio
 Sample and real projects of web design using CMS WordPress and graphic design using Photoshop &amp; Illustrator.
 
-<h2> Web/Landing Page Design samples:</h2>
+<h2> Web/Landing Page Design </h2>
 <h4><i> Tools: CMS Wordpress, Page Builder Elementor, Yoast SEO </i></h4>
 <ol>
   <li>https://jfllawyers.com</li>
