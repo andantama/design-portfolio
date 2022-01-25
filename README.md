@@ -1,4 +1,4 @@
-# Design-portfolio
+# Design Portfolio
 Sample and real projects of web design using CMS WordPress and graphic design using Photoshop &amp; Illustrator
 
 <h2> Web/Landing Page Design samples:</h2>
