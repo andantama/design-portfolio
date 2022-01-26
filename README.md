@@ -23,4 +23,5 @@ Sample and real projects of web design using CMS WordPress and graphic design us
 <ol>
   <li>Digital graphic samples:<br/> https://drive.google.com/drive/folders/1LkobviMpns0lu4sx97iyGKv-AG6puwaK?usp=sharing</li>
   <li>Animated / video post samples:<br/> https://drive.google.com/drive/folders/1D-PTlcN4A9kbdwYkydT2RDPOg7lL0hLB?usp=sharing</li>
+  <li>Logo Design:<br/> https://www.instagram.com/dcalneo</li>
 </ol>
